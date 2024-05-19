@@ -1,0 +1,8 @@
+yo im hinata and i do every possible nerdy hobby (that dosent involve highschool math on a daily basis), new to coding, learning python, i also do photography and more computer stuff.
+I am also very much into keyboards. I work alone and i only use github to save my history so i dont get accused of using AI from my teacher. my starsign is: doomscrolling daily on reddit
+if that says anything about me.
+
+<!---
+hinatabear/hinatabear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
